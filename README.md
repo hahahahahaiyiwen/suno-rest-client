@@ -2,7 +2,7 @@
 
 [![GitHub][github_badge]][github_link]
 
-A python rest client for [Suno AI](https://www.suno.ai/) leveraging openapi-python-client
+A python rest client for [Suno AI](https://www.suno.ai/) leveraging [openapi-python-client](https://github.com/openapi-generators/openapi-python-client)
 
 ## Quickstart
 
