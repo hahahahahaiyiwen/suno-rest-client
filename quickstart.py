@@ -7,7 +7,7 @@ models = importlib.import_module("suno-api-client.suno_api_client.models")
 
 async def main():
     # Set cookie
-    cookie = 'COOKIE'
+    cookie = '<COOKIE>'
     
     # Initialize Suno rest client
     client = suno.SunoRestClient(cookie)
